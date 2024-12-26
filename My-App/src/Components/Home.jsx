@@ -5,7 +5,10 @@ import Slider from './Slider'
 const Home = () => {
   return (
     <div>
-      Home
+      Navbar
+    </div>
+    <div>
+      Slider
     </div>
   )
 }

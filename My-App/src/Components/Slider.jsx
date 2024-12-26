@@ -39,10 +39,10 @@ const Slider = () => {
   dotListClass="custom-dot-list-style"
   itemClass="carousel-item-padding-40-px"
 >
-  <div><img src="./vite.svg" alt="" /></div>
-  <div>Item 2</div>
-  <div>Item 3</div>
-  <div>Item 4</div>
+  <div><img id="slider_img" src="./img1.jpg" alt="" /></div>
+  <div><img id='slider_img' src="./img2.jpeg" alt="" /></div>
+  <div><img id="slider_img" src="./img1.jpg" alt="" /></div>
+  <div><img id='slider_img' src="./img2.jpeg" alt="" /></div>
 </Carousel>
   )
 }
