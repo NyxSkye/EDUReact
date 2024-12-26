@@ -5,8 +5,8 @@ import "../App.css"
 
 const Navbar = () => {
   return (
-    <div id="navbar">
-      <img src='/vite.svg' alt='' />
+    <div id="Navbar">
+      <img src='./vite.svg' alt='' />
           <NavLink style={{color:"white", textDecoration:"none"}} to="/">Home</NavLink>
           <NavLink style={{color:"white", textDecoration:"none"}} to="/courses">Contact</NavLink>
           <NavLink style={{color:"white", textDecoration:"none"}} to="/courses">Admissions</NavLink>
