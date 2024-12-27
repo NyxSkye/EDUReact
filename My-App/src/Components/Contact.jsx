@@ -8,6 +8,8 @@ const Contact = () => {
       </div>
       <div className='h-full w-1/2 border border-green-800'></div>
     </div>
+    //isme to poori hi dikkat h
+    //ek baar app.css dekh lena
     
   )
 }
